@@ -3,7 +3,7 @@
 <br>
 📫 You can reach me via ...
 - [Website](https://thegamedefault.tech)
-- [Linkedin](https://www.linkedin.com/in/313hemant313/)
+- [Linkedin](https://www.linkedin.com/in/thegamedefault)
 - [Twitter](https://twitter.com/thegamedefault "Twitter")
 - [Upwork](https://www.upwork.com/o/profiles/users/~015098f2a3ec1561af/)
 - [Email](mailto:v313hemant@gmail.com "Email")
